@@ -5,8 +5,9 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)](#)
 
-![Resilio AI Dashboard](link-to-your-dashboard-screenshot.png)
-*(Insert a screenshot of your beautiful dark-mode dashboard here)*
+![Resilio AI Dashboard]
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/21ee48bc-ca83-4b5e-a583-fe8b10ce03af" />
+
 
 ##  The Story
 Most AIOps tools wait for a server to crash or a metric to cross a red line before they start screaming. By then, the damage is done, users are impacted, and SRE teams are spending hours digging through logs at 3 AM. 
