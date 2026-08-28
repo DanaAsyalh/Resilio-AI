@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)](#)
 
 ![Resilio AI Dashboard]
-<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/21ee48bc-ca83-4b5e-a583-fe8b10ce03af" />
+<img width="1850" height="811" alt="Dashboard" src="https://github.com/user-attachments/assets/9b39550f-463a-42e6-bc3a-7c3517211293" />
 
 
 ##  The Story
@@ -50,6 +50,6 @@ streamlit run app.py
  About the Builder
 Dana Tariq Asyalh Telecommunication & Electronics Engineering @Taflia Technical University Vice Chairman, IEEE RAS Student Chapter and a chess player!
 
-Passionate about Cloud Infrastructure, Digital Signal Processing, and building AI that solves real backend problems. Let's connect!
+Passionate about Cloud Infrastructure, Dev-ops, and building AI that solves real backend problems. Let's connect!
 
    
