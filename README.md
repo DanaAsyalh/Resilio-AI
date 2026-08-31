@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)](#)
 
 ![Resilio AI Dashboard]
-<img width="1850" height="811" alt="Dashboard" src="https://github.com/user-attachments/assets/9b39550f-463a-42e6-bc3a-7c3517211293" />
+<img width="1515" height="876" alt="image" src="https://github.com/user-attachments/assets/953b2d20-7cd4-4fe2-9131-2c2171544a4a" />
 
 
 ##  The Story
